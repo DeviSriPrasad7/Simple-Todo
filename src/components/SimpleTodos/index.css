@@ -1,0 +1,18 @@
+/* Write your CSS here */
+.main-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background-color: #ff8542;
+}
+.sub-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background-color: #ffffff;
+  margin: 25px;
+  border-radius: 7px;
+  border-width: 0px;
+}
